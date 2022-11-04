@@ -1,2 +1,2 @@
 # uxgems
-Patterns and algorithms for a healthier user experience
+Patterns and algorithms for healthier user experiences
