@@ -29,9 +29,11 @@ Pseudo and real code when possible. Quantify whenever possible (e.g. 3 beeps, no
 
 - Urgency patterns
 
-- Chart of typical reaction times and durations
+- Chart of typical times and durations
     - Ex: startle and recover
     - Ex: how many questions in a row with "ok" as the answer everytime
+    - holding dragged items over another item before it "opens". Like dragging files to a new folder - how long to wait on hover before expanding target? what constitutes intention?
+    - how is hover intent determined? can you move mouse 1 pixel and the timer doesn't change?
 
 - Large stuff:
     - UX flow for signup/login/forgot with business conditionals
