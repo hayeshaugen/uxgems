@@ -25,7 +25,11 @@ Pseudo and real code when possible. Quantify whenever possible (e.g. 3 beeps, no
     - reflow around user obscuring the screen (like thumb over content)
     - snapping a dragged component to an alignment object (how does dragging a window to the side and having it snap there work?)
 
-
+- Naming and language (maybe out of scope? maybe is it's own thing?)
+    - word research. Let's say I want to name my product or feature "cinq". How do people pronounce it? Is it a real word? Does it mean something in another language
+    - slang and idiom checking for docs
+    - Google's domain name finder is a useful tool for that context and gives lots of AI like insights.
+    
 
 - Urgency patterns
 
