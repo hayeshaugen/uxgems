@@ -4,7 +4,7 @@ Patterns and algorithms for healthier user experiences
 Pseudo and real code when possible. Quantify whenever possible (e.g. 3 beeps, not 2, not 4 and pref none).
 
 - Notifiers
-    - [Sounds](/uxgems/sounds.md)
+    - [Sounds](sounds.md)
     - typical frequencies and durations=
         - examples
         - algorithms
