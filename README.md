@@ -3,6 +3,10 @@ Patterns and algorithms for healthier user experiences
 
 Pseudo and real code when possible. Quantify whenever possible (e.g. 3 beeps, not 2, not 4 and pref none).
 
+Describe why and how an anti-pattern doesn't work.
+
+Attention pollution. Design outside of the confines of the object - it exists in many contexts.
+
 - Notifiers
     - [Sounds](sounds.md)
     - typical frequencies and durations=
@@ -38,6 +42,10 @@ Pseudo and real code when possible. Quantify whenever possible (e.g. 3 beeps, no
     - Ex: how many questions in a row with "ok" as the answer everytime
     - holding dragged items over another item before it "opens". Like dragging files to a new folder - how long to wait on hover before expanding target? what constitutes intention?
     - how is hover intent determined? can you move mouse 1 pixel and the timer doesn't change?
+
+- Time and dates
+    - friendly times
+    - intention to specifics, e.g. what does "set an alarm for 11" translate to?
 
 - Large stuff:
     - UX flow for signup/login/forgot with business conditionals
