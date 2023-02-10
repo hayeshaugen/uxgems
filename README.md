@@ -38,6 +38,10 @@ Attention pollution. Design outside of the confines of the object - it exists in
 
 - Urgency patterns
 
+- Thresholds
+    - simple smoothing algos such as kalman
+    - dealing with absolute cutoffs (e.g. the slot is 100mm wide vs we only accept 100mm wide items)
+
 - Chart of typical times and durations
     - Ex: startle and recover
     - Ex: how many questions in a row with "ok" as the answer everytime
