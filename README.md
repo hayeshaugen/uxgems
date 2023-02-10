@@ -5,7 +5,7 @@ Pseudo and real code when possible. Quantify whenever possible (e.g. 3 beeps, no
 
 Describe why and how an anti-pattern doesn't work.
 
-Attention pollution. Design outside of the confines of the object - it exists in many contexts.
+Attention pollution. Design outside of the confines of the object - it exists in many contexts. e.g. airline app used both casually at home and urgently while in line.
 
 - Notifiers
     - [Sounds](sounds.md)
