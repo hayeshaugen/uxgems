@@ -30,6 +30,7 @@ Attention pollution. Design outside of the confines of the object - it exists in
     - snapping a dragged component to an alignment object (how does dragging a window to the side and having it snap there work?)
 
 - Naming and language (maybe out of scope? maybe is it's own thing?)
+    - other languages not only read right to left they process right to left e.g. the next arrow should point left, not right.
     - word research. Let's say I want to name my product or feature "cinq". How do people pronounce it? Is it a real word? Does it mean something in another language
     - slang and idiom checking for docs
     - Google's domain name finder is a useful tool for that context and gives lots of AI like insights.
