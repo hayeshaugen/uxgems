@@ -7,6 +7,10 @@ Describe why and how an anti-pattern doesn't work.
 
 Attention pollution. Design outside of the confines of the object - it exists in many contexts. e.g. airline app used both casually at home and urgently while in line.
 
+Good video on debouncing
+
+https://youtu.be/fyejkPCFCqk
+
 - Notifiers
     - [Sounds](sounds.md)
     - typical frequencies and durations=
