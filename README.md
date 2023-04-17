@@ -7,9 +7,11 @@ Describe why and how an anti-pattern doesn't work.
 
 Attention pollution. Design outside of the confines of the object - it exists in many contexts. e.g. airline app used both casually at home and urgently while in line.
 
-Good video on debouncing
+Good video on debouncing. Shows 7 different approaches with code. Includes oscilloscope traces for what is going on electrically.
 
 https://youtu.be/fyejkPCFCqk
+
+
 
 - Notifiers
     - [Sounds](sounds.md)
@@ -64,4 +66,6 @@ https://youtu.be/fyejkPCFCqk
 - Unpatent:
     - Area where users can document an idea so as to disclose and establish prior art
 
-
+- Mechanical:
+    - Doesn't belong here?
+    = https://youtu.be/NVtsrisYtUE
